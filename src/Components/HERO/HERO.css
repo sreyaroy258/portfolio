@@ -6,8 +6,8 @@ gap:  35px;
 }
 
 .hero-img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     background-color: #bbb;
     border-radius: 50%;
    display: inline-block;
@@ -104,3 +104,7 @@ border-color: #B415FF;
     }
 }
 
+.hero-resume a{
+    color: white;
+    text-decoration: none;
+}
